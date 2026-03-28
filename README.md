@@ -4,7 +4,7 @@ To write a C Program to perform the basic left shift operation for 44 integer nu
 
 ## ALGORITHM
 1.	Start the program.
-2.	Assign values of a and b as 44 and 3.
+2.	Assign the values of a and b as 44 and 3.
 3.	Use left shift operator (<<) and shift the value of a three times.
 4.	Display the result.
 5.	Stop the program.
